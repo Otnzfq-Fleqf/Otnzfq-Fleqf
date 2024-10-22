@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Otnzfq-Fleqf.
+- 👋 Hi, I’m @Otnzfq-Fleqf, this is my University linked account.
 - 👀 I’m interested in working on projects.
 - 🌱 I’m currently learning computer science at OSU.
 - 💞️ I’m looking to collaborate on issues and projects.
